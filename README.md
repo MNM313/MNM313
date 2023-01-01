@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed ..
 - 👀 I’m interested in React developing ..
-- 🌱 I’m currently attending a React cross skilling nano degree udacity course ..
+- 🌱 I’m currently attending a React cross-skilling nanodegree udacity course ..
 - 💞️ I’m looking forward to be a Frontend Developer ..
 
 <!---
